@@ -13,7 +13,7 @@
         <h1>Posts</h1>
         <div class="divInfo" class="row">
             <div class="col-12">
-            Plengpleng love love 
+             Plengpleng love love 
             </div>
         </div>
         <div id="divMain" class="row">
